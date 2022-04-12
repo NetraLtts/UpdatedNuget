@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ClassLibrary_Nuget</id>
+    <version>1.0.0</version>
+    <authors>ClassLibrary_Nuget</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\bin\Debug\net5.0\ClassLibrary_Nuget.dll" target="lib\net5.0\ClassLibrary_Nuget.dll" />
+  </files>
+</package>

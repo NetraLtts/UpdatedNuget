@@ -1,0 +1,11 @@
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\bin\Debug\net5.0\ClassLibrary_Nuget.deps.json
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\bin\Debug\net5.0\ClassLibrary_Nuget.dll
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\bin\Debug\net5.0\ref\ClassLibrary_Nuget.dll
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\bin\Debug\net5.0\ClassLibrary_Nuget.pdb
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\obj\Debug\net5.0\ClassLibrary_Nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\obj\Debug\net5.0\ClassLibrary_Nuget.AssemblyInfoInputs.cache
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\obj\Debug\net5.0\ClassLibrary_Nuget.AssemblyInfo.cs
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\obj\Debug\net5.0\ClassLibrary_Nuget.csproj.CoreCompileInputs.cache
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\obj\Debug\net5.0\ClassLibrary_Nuget.dll
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\obj\Debug\net5.0\ref\ClassLibrary_Nuget.dll
+C:\Users\40024497\source\repos\ClassLibrary_Nuget\ClassLibrary_Nuget\obj\Debug\net5.0\ClassLibrary_Nuget.pdb
